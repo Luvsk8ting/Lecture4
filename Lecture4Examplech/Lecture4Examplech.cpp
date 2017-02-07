@@ -10,7 +10,7 @@ int main()
 {
 	int i = 10;
 	int *ptr1 = &i;
-
+	 
 	cout << i << endl;
 	cout << ptr1 << endl;
 	cout << &i << endl;
